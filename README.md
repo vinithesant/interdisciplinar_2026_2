@@ -5,4 +5,4 @@ Explicação dos arquivos disponiveis neste repositório:
 
 1. ( heart_attack_dataset.csv ): É o arquivo csv do dado bruto utilizado;
 
-2. ( Sobre o conjunto de dados.pdf ): É um mine resumo preliminar explicativo do conjunto de dados que foi ultilizado;
+2. ( Sobre o conjunto de dados.pdf ): É um resumo preliminar explicativo do conjunto de dados que foi ultilizado;
